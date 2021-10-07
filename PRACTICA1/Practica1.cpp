@@ -2,6 +2,7 @@
 #include <gl\freeglut.h>
 void display()
 {
+	glClearColor(0, 0, 0.3, 1);
 	glClear(GL_COLOR_BUFFER_BIT);
 	glFlush();
 }
