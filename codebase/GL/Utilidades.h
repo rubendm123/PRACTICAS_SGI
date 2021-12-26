@@ -9,9 +9,9 @@
 
 #include <iostream>
 #include <cmath>
-#include <GL/freeglut.h>
-#include <GL/glext.h>
-#include <freeimage/FreeImage.h>
+#include <freeglut.h>
+#include <glext.h>
+#include <FreeImage.h>
 
 using namespace std;
 
