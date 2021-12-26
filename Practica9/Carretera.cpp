@@ -7,10 +7,10 @@
 #include <sstream>
 #include <ctime>
 #include <irrKlang.h>
-
-#pragma comment(lib, "irrklang.lib")
+#pragma comment(lib, "irrKlang.lib")
 
 using namespace irrklang;
+using namespace std;
 
 //booleanos modos
 bool M_Alamb = false, M_Luz = true, M_Niebla = false;
